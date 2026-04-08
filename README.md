@@ -45,9 +45,11 @@ VS Code, Expo Go, Git & GitHub
    ```bash
    git clone https://github.com/caitlinjadevangoeverden/Caitlins-Thrift-Store.git
 2. Install dependencies
+   ```bash
    cd Caitlins-Thrift-Store
    npm install
 4. Start the app
+   ```bash
    npx expo start
 
 ## Future Improvements
