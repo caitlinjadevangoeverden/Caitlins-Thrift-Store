@@ -1,5 +1,3 @@
-<img width="590" height="1278" alt="IMG_1054" src="https://github.com/user-attachments/assets/9f364f85-7a66-4c00-b505-eb07872e233d" /># Caitlin's Thrift Marketplace App (React Native + Expo)
-
 A mobile marketplace app where users can browse, post, and interact with second-hand clothing listings. 
 Built using React Native and Expo Router.
 
@@ -54,15 +52,15 @@ VS Code, Expo Go, Git & GitHub
    - Image upload support
 
 ## Screenshots
-<img width="590" height="1278" alt="IMG_1053" src="https://github.com/user-attachments/assets/307d0621-a701-492d-bdd7-7d41e8fe97c4" />
-<img width="590" height="1278" alt="IMG_1054" src="https://github.com/user-attachments/assets/d8657235-beb6-4977-9704-da23473d84e1" />
-<img width="590" height="1278" alt="IMG_1055" src="https://github.com/user-attachments/assets/f94508b9-ca8a-4a6d-9ea4-a1705cd2bef3" />
-<img width="590" height="1278" alt="IMG_1056" src="https://github.com/user-attachments/assets/d78f262d-f986-4cdc-9bff-79d9de174c4d" />
-<img width="590" height="1278" alt="IMG_1057" src="https://github.com/user-attachments/assets/be517d35-a99f-42aa-9b7c-a331c4886c5b" />
-<img width="590" height="1278" alt="IMG_1058" src="https://github.com/user-attachments/assets/9f8a0d7a-b68d-4cb5-8c93-db1459335607" />
-<img width="590" height="1278" alt="IMG_1059" src="https://github.com/user-attachments/assets/a335d15e-a224-48a4-baf5-ca25171153c0" />
-<img width="590" height="1278" alt="IMG_1060" src="https://github.com/user-attachments/assets/1387f4a1-4eea-4f44-b028-c72564c711d8" />
-<img width="590" height="1278" alt="IMG_1061" src="https://github.com/user-attachments/assets/1f79e095-1199-4cd6-935a-2265527da527" />
+<img width="147.5" height="319.5" alt="IMG_1053" src="https://github.com/user-attachments/assets/307d0621-a701-492d-bdd7-7d41e8fe97c4" />
+<img width="147.5" height="319.5" alt="IMG_1054" src="https://github.com/user-attachments/assets/d8657235-beb6-4977-9704-da23473d84e1" />
+<img width="147.5" height="319.5" alt="IMG_1055" src="https://github.com/user-attachments/assets/f94508b9-ca8a-4a6d-9ea4-a1705cd2bef3" />
+<img width="147.5" height="319.5" alt="IMG_1056" src="https://github.com/user-attachments/assets/d78f262d-f986-4cdc-9bff-79d9de174c4d" />
+<img width="147.5" height="319.5" alt="IMG_1057" src="https://github.com/user-attachments/assets/be517d35-a99f-42aa-9b7c-a331c4886c5b" />
+<img width="147.5" height="319.5" alt="IMG_1058" src="https://github.com/user-attachments/assets/9f8a0d7a-b68d-4cb5-8c93-db1459335607" />
+<img width="147.5" height="319.5" alt="IMG_1059" src="https://github.com/user-attachments/assets/a335d15e-a224-48a4-baf5-ca25171153c0" />
+<img width="147.5" height="319.5" alt="IMG_1060" src="https://github.com/user-attachments/assets/1387f4a1-4eea-4f44-b028-c72564c711d8" />
+<img width="147.5" height="319.5" alt="IMG_1061" src="https://github.com/user-attachments/assets/1f79e095-1199-4cd6-935a-2265527da527" />
 
 
 
