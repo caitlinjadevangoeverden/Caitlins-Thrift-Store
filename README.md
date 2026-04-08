@@ -1,4 +1,5 @@
-# A mobile marketplace app where users can browse, post, and interact with second-hand clothing listings. 
+# Caitlin's Thriftstore
+### Mobile marketplace app where users can browse, post, and interact with second-hand clothing listings. 
 ### Built using React Native and Expo Router.
 
 ---
