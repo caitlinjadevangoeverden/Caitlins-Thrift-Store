@@ -1,5 +1,5 @@
-#A mobile marketplace app where users can browse, post, and interact with second-hand clothing listings. 
-###Built using React Native and Expo Router.
+# A mobile marketplace app where users can browse, post, and interact with second-hand clothing listings. 
+### Built using React Native and Expo Router.
 
 ---
 ### Author: Caitlin van Goeverden
