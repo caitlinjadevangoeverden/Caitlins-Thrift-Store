@@ -19,11 +19,17 @@ Built using React Native and Expo Router.
 
 ## Tech Stack Used
 
-- React Native
-- Expo
-- Expo Router
-- TypeScript
-- Context API
+**Languages:**  
+TypeScript, JavaScript
+
+**Frameworks & Libraries:**  
+React Native, Expo, Expo Router
+
+**State Management:**  
+Context API (ItemsContext)
+
+**Tools:**  
+VS Code, Expo Go, Git & GitHub
 
 ---
 
@@ -33,12 +39,15 @@ Built using React Native and Expo Router.
 
 ---
 
-## How to Run the application
+## How to Run the application/Installation
 
-```bash
-1. Install dependencies
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/caitlinjadevangoeverden/Caitlins-Thrift-Store.git
+2. Install dependencies
+   cd Caitlins-Thrift-Store
    npm install
-2. Start the app
+3. Start the app
    npx expo start
 
 ## Future Improvements
