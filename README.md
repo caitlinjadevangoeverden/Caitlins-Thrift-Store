@@ -47,7 +47,7 @@ VS Code, Expo Go, Git & GitHub
 2. Install dependencies
    cd Caitlins-Thrift-Store
    npm install
-3. Start the app
+4. Start the app
    npx expo start
 
 ## Future Improvements
